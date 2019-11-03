@@ -1,2 +1,2 @@
-# learn_react_material_ui
-Explore material ui components in react
+# Learn usage of material_ui in React
+Objective of this repository is to capture learnings on using material ui components in React
